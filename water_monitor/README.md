@@ -153,8 +153,7 @@ Pastikan board **ESP32** sudah terpasang di Arduino IDE (via Boards Manager).
 ```
 water-monitor/
 ├── water-monitor.ino     # Kode utama
-├── secrets.h              # Kredensial asli (JANGAN diupload)
-├── secrets.h.example       # Template kredensial (aman diupload)
+├── secrets.h.example       # Template kredensial
 ├── .gitignore
 ├── README.md
 └── images/
