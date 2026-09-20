@@ -3,8 +3,10 @@
 Alat pemantau ketinggian air otomatis berbasis **ESP32**, dilengkapi indikator LED traffic light, buzzer peringatan, LCD, serta notifikasi jarak jauh lewat **Telegram** dan monitoring real-time lewat **Blynk IoT**. Dibuat untuk membantu deteksi dini banjir/kenaikan air di sungai, selokan, atau area rawan genangan.
 
 <!-- Ganti nama file di bawah ini sesuai file gambar kamu di folder images/ -->
-![Foto Alat](images/foto-alat.jpg)
-![Wiring Diagram](images/wiring-diagram.jpg)
+![Foto Alat](images/Screenshot 2026-05-28 202436.png)
+![Foto Alat](images/images1.webp)
+![Foto Alat](images/images2.webp)
+![Wiring Diagram](images/circuit.png)
 
 ---
 
