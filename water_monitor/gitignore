@@ -1,0 +1,8 @@
+# Jangan upload file credential asli
+secrets.h
+
+# File umum yang biasanya tidak perlu ikut di-commit
+*.log
+.DS_Store
+build/
+.vscode/
